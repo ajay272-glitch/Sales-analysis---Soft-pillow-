@@ -1,0 +1,47 @@
+/* 
+Smart Pillow Project - SQL Queries
+Author: Ajay
+Description: SQL queries used to analyze sales and customer insights 
+for a fictional startup 'Smart Pillow' which offers vibration massage pillows.
+*/
+
+/* 1. View all records */
+SELECT * FROM smart_pillow;
+
+/* 2. Total Revenue by City */
+SELECT City, SUM(Net_Revenue) AS Total_Revenue
+FROM smart_pillow
+GROUP BY City
+ORDER BY Total_Revenue DESC;
+
+/* 3. Profession with Most Units Sold */
+SELECT Profession, SUM(Units_Sold) AS Total_Units
+FROM smart_pillow
+GROUP BY Profession
+ORDER BY Total_Units DESC;
+
+/* 4. Most Common Feedback Issue */
+SELECT Feedback, COUNT(*) AS Count
+FROM smart_pillow
+GROUP BY Feedback
+ORDER BY Count DESC;
+
+/* 5. Units Sold by Marketing Channel */
+SELECT Marketing_Channel, SUM(Units_Sold) AS Total_Units
+FROM smart_pillow
+GROUP BY Marketing_Channel
+ORDER BY Total_Units DESC;
+
+/* 6. Average Customer Rating by Profession */
+SELECT Profession, ROUND(AVG(Customer_Rating), 2) AS Avg_Rating
+FROM smart_pillow
+GROUP BY Profession
+ORDER BY Avg_Rating DESC;
+
+/* 7. Age Group Buying Pattern (5-Year Range Example) */
+SELECT 
+    CONCAT(FLOOR(Age/5)*5, '-', FLOOR(Age/5)*5 + 4) AS Age_Group,
+    SUM(Units_Sold) AS Total_Units
+FROM smart_pillow
+GROUP BY Age_Group
+ORDER BY Total_Units DESC;
