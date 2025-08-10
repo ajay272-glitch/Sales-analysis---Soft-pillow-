@@ -1,0 +1,51 @@
+Order_ID,Customer_Name,Age,City,Profession,Order_Date,Units_Sold,Price_per_Unit ($),Total_Revenue ($),Discount (%),Net_Revenue ($),Marketing_Channel,Customer_Rating,Return/Complaint,Feedback
+ORD1001,Alex Johnson,28,Delhi,IT Employee,2024-06-01,2,50,100,10,90,Instagram Ads,4,No,Very comfortable
+ORD1002,Riya Kapoor,35,Tokyo,Businesswoman,2024-06-02,1,50,50,0,50,Facebook Ads,2,Yes,Too expensive
+ORD1003,Michael Lee,24,Mumbai,Student,2024-06-02,3,50,150,5,142.5,Google Ads,5,No,Loved the product
+ORD1004,Ayesha Khan,42,Bangalore,Doctor,2024-06-03,0,50,0,0,0,Flyers,1,No,Not interested
+ORD1005,Kabir Verma,31,Delhi,Traveler,2024-06-03,1,50,50,0,50,Instagram Ads,4,No,Good for neck pain
+ORD1006,Sarah Wilson,27,Tokyo,Freelancer,2024-06-04,2,50,100,10,90,YouTube Ads,3,No,Price a bit high
+ORD1007,David Kim,38,Chennai,IT Employee,2024-06-04,1,50,50,0,50,Facebook Ads,4,No,Very soft and comfy
+ORD1008,Meera Nair,29,Mumbai,Entrepreneur,2024-06-05,2,50,100,5,95,Google Ads,3,No,Average quality
+ORD1009,Ethan Brown,40,Tokyo,Teacher,2024-06-05,1,50,50,0,50,Instagram Ads,5,No,Sleep improved a lot
+ORD1010,Priya Das,33,Delhi,Marketing Manager,2024-06-06,0,50,0,0,0,Flyers,1,No,Did not buy
+ORD1011,Liam Smith,22,Pune,Student,2024-06-06,1,50,50,5,47.5,YouTube Ads,4,No,Great for travel
+ORD1012,Anjali Rao,26,Mumbai,IT Employee,2024-06-07,3,50,150,10,135,Google Ads,5,No,Best pillow ever
+ORD1013,Haruto Sato,34,Tokyo,Engineer,2024-06-07,1,50,50,0,50,Instagram Ads,3,No,Good but costly
+ORD1014,Neha Bansal,28,Delhi,HR Executive,2024-06-08,2,50,100,5,95,Facebook Ads,4,No,Perfect for office naps
+ORD1015,Jason Wright,39,Bangalore,Doctor,2024-06-08,1,50,50,0,50,YouTube Ads,3,No,Works as advertised
+ORD1016,Komal Gupta,30,Delhi,Teacher,2024-06-09,0,50,0,0,0,Flyers,1,No,Not aware of product
+ORD1017,Chris Adams,37,Mumbai,Entrepreneur,2024-06-09,1,50,50,10,45,Google Ads,4,No,Very relaxing
+ORD1018,Aditi Sharma,32,Tokyo,Marketing Manager,2024-06-10,2,50,100,0,100,Instagram Ads,5,No,Highly recommend
+ORD1019,Oliver White,25,Chennai,Freelancer,2024-06-10,1,50,50,0,50,Facebook Ads,4,No,Nice and compact
+ORD1020,Sana Qureshi,27,Bangalore,Student,2024-06-11,3,50,150,10,135,YouTube Ads,5,No,Loved the comfort
+ORD1021,Kunal Mehta,36,Delhi,IT Employee,2024-06-11,2,50,100,5,95,Instagram Ads,3,No,Decent quality
+ORD1022,Isabella Jones,29,Mumbai,Businesswoman,2024-06-12,1,50,50,0,50,Google Ads,4,No,Travel essential
+ORD1023,Aditya Singh,41,Chennai,Engineer,2024-06-12,0,50,0,0,0,Flyers,1,No,Didn't buy
+ORD1024,Sofia Roy,26,Tokyo,Freelancer,2024-06-13,2,50,100,0,100,Instagram Ads,5,No,Absolutely love it
+ORD1025,Noah Thomas,35,Delhi,Teacher,2024-06-13,1,50,50,5,47.5,Facebook Ads,4,No,Very helpful
+ORD1026,Maya Kapoor,33,Bangalore,Doctor,2024-06-14,1,50,50,0,50,YouTube Ads,3,No,Average experience
+ORD1027,William Green,30,Mumbai,Entrepreneur,2024-06-14,2,50,100,10,90,Google Ads,4,No,Really good product
+ORD1028,Kiara Fernandes,28,Pune,Student,2024-06-15,3,50,150,5,142.5,Instagram Ads,5,No,Travel must-have
+ORD1029,Arjun Malhotra,40,Chennai,IT Employee,2024-06-15,1,50,50,0,50,Facebook Ads,3,No,Okay for price
+ORD1030,Emily Parker,34,Delhi,Freelancer,2024-06-16,2,50,100,0,100,YouTube Ads,4,No,Very comfy
+ORD1031,Navya Menon,29,Mumbai,HR Executive,2024-06-16,0,50,0,0,0,Flyers,1,No,Not available nearby
+ORD1032,Daniel Scott,27,Tokyo,Engineer,2024-06-17,1,50,50,0,50,Google Ads,4,No,Feels premium
+ORD1033,Shreya Iyer,31,Delhi,Student,2024-06-17,2,50,100,10,90,Instagram Ads,5,No,Would buy again
+ORD1034,Ethan Carter,38,Bangalore,Doctor,2024-06-18,1,50,50,0,50,Facebook Ads,3,No,Not bad
+ORD1035,Ananya Ghosh,26,Mumbai,Traveler,2024-06-18,3,50,150,5,142.5,YouTube Ads,5,No,Great for flights
+ORD1036,Jacob Rivera,36,Chennai,Entrepreneur,2024-06-19,1,50,50,0,50,Google Ads,4,No,Decent product
+ORD1037,Aarav Joshi,28,Delhi,IT Employee,2024-06-19,2,50,100,0,100,Instagram Ads,5,No,Perfect gift item
+ORD1038,Sophia Khan,33,Mumbai,Marketing Manager,2024-06-20,1,50,50,0,50,Facebook Ads,3,No,Could be softer
+ORD1039,Rohan Patel,30,Chennai,Engineer,2024-06-20,0,50,0,0,0,Flyers,1,No,Not purchased
+ORD1040,Grace Allen,24,Bangalore,Freelancer,2024-06-21,2,50,100,5,95,YouTube Ads,5,No,Super comfortable
+ORD1041,Tanvi Choudhary,27,Delhi,Doctor,2024-06-21,1,50,50,0,50,Instagram Ads,4,No,Very useful
+ORD1042,Benjamin Brooks,35,Mumbai,Traveler,2024-06-22,2,50,100,0,100,Google Ads,5,No,Ideal for long trips
+ORD1043,Isha Reddy,29,Tokyo,HR Executive,2024-06-22,1,50,50,5,47.5,Facebook Ads,3,No,Average support
+ORD1044,Liam Evans,39,Chennai,Entrepreneur,2024-06-23,3,50,150,10,135,YouTube Ads,4,No,Very nice design
+ORD1045,Nikita Sharma,26,Delhi,Student,2024-06-23,2,50,100,0,100,Instagram Ads,5,No,Travel-friendly
+ORD1046,Matthew Price,32,Bangalore,Teacher,2024-06-24,1,50,50,0,50,Google Ads,4,No,Good value for money
+ORD1047,Zara Deshmukh,34,Mumbai,Doctor,2024-06-24,0,50,0,0,0,Flyers,1,No,Not available
+ORD1048,Hiroshi Tanaka,28,Tokyo,Engineer,2024-06-25,2,50,100,5,95,Instagram Ads,5,No,Love this pillow
+ORD1049,Varun Kaushik,31,Chennai,Freelancer,2024-06-25,1,50,50,0,50,Facebook Ads,3,No,Could improve
+ORD1050,Alice Martin,40,Delhi,Marketing Manager,2024-06-26,2,50,100,10,90,YouTube Ads,4,No,Pretty good
